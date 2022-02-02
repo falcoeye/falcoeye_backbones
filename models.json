@@ -1,0 +1,83 @@
+{
+    "Object Detector":{
+        "name": "Object Detector",
+        "task": "detection",
+        "framework": "tensorflow",
+        "base_arch": "frcnn",
+        "size": "1024",
+        "path": "portofolio/human/humancounter/faster_rcnn_inception_v2_coco_2017_11_08/prod/",
+        "checkpoint_type": "frozen1"
+    },
+    "FourtyThree Fish Frozen":{
+        "name": "FourtyThree Fish Frozen",
+        "task": "detection",
+        "framework": "tensorflow",
+        "base_arch": "frcnn",
+        "size": "1024",
+        "path": "./portofolio/fish/fourtythree/kaust_tf_ssd_1024x1024/vit_1_5/",
+        "checkpoint_type": "frozen"
+    },
+    "FourtyThree Fish":{
+        "name": "FourtyThree Fish",
+        "task": "detection",
+        "framework": "tensorflow",
+        "base_arch": "frcnn",
+        "size": "1024",
+        "path": "./portofolio/fish/fourtythree/kaust_tf_frcnn_1024x1024/prod/",
+        "checkpoint_type": "checkpoint"
+    },
+    "FourtyThree Fish SSD":{
+        "name": "FourtyThree Fish SSD",
+        "task": "detection",
+        "framework": "tensorflow",
+        "base_arch": "frcnn",
+        "size": "1024",
+        "path": "./portofolio/fish/fourtythree/kaust_tf_ssd_1024x1024/vit_1_5/",
+        "checkpoint_type": "frozen"
+    },
+    "KAUST Fish Finder":{
+        "name": "KAUST Fish Finder",
+        "task": "detection",
+        "framework": "tensorflow",
+        "base_arch": "frcnn",
+        "size": "1024",
+        "path": "./portofolio/fish/findfish/kaust_tf_frcnn_1024x1024/prod/",
+        "checkpoint_type": "checkpoint"
+    },
+    "Bhader Fish Finder":{
+        "name": "Bhader Fish Finder",
+        "task": "detection",
+        "framework": "tensorflow",
+        "base_arch": "frcnn",
+        "size": "1024",
+        "path": "./portofolio/fish/findfish/bhader_tf_frcnn_1024x1024/prod/",
+        "checkpoint_type": "checkpoint"
+    },
+    "Bhader 15 Fish Recognizer":{
+        "name": "Bhader 15 Fish Recognizer",
+        "task": "detection",
+        "framework": "tensorflow",
+        "base_arch": "frcnn",
+        "size": "1024",
+        "path": "./portofolio/fish/15fish/bhader_tf_frcnn_1024x1024/prod/",
+        "checkpoint_type": "checkpoint"
+    },
+    "Bhader Super Fish Finder":{
+        "name": "Bhader Super Fish Finder",
+        "task": "detection",
+        "framework": "detectron",
+        "base_arch": "frcnn",
+        "size": "r50fpn3x",
+        "model_zoo_path":"COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml",
+        "path": "./portofolio/fish/findfish/bhader_detectron_frcnn_r50fpn3x/prod/"
+    },
+    "Bhader Super 15 Fish Recognizer":{
+        "name": "Bhader Super 15 Fish Recognizer",
+        "task": "detection",
+        "framework": "detectron",
+        "base_arch": "frcnn",
+        "size": "r50fpn3x",
+        "model_zoo_path":"COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml",
+        "path": "./portofolio/fish/15fish/bhader_detectron_frcnn_r50fpn3x/prod/"
+    }
+}

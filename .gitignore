@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+portofolio/*
+!portofolio
+!portofolio/README.md
+
+
