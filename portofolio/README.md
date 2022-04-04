@@ -1,7 +1,7 @@
 # Models
 
 
-## Bhader Dataset Models:
+## Fish Models:
 
 A set of models that were trained on the Bhader dataset (see datasets)
 
@@ -95,6 +95,36 @@ A set of models that were trained on the Bhader dataset (see datasets)
 <td align="center"><a href="https://drive.google.com/file/d/1sABh7YUQIV06NAHkMZKTipsJ1NWTdtku/view?usp=sharing">Weights</a> | <a href="https://drive.google.com/file/d/1pl5U0Lkfqpt5mVOfy8Ouh2X76FcNeNbI/view?usp=sharing">Labels</a></td>
 </tr>
 
+
+
+</tbody></table>
+
+
+## Vehicles Models:
+
+A set of models for vehicles detection
+
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Name</th>
+<th valign="bottom">Task</th>
+<th valign="bottom">Good For</th>
+<th valign="bottom">Framework</th>
+<th valign="bottom">Base Architecture</th>
+<th valign="bottom">Image Size</th>
+<th valign="bottom">Extra</th>
+<th valign="bottom">Download</th>
+<!-- TABLE BODY -->
+<tr><td align="left">careye</td>
+<td align="center">detection</td>
+<td align="center">monitoring 4 types of vehicles [two-wheels|four-wheels|bus|truck]</td>
+<td align="center">torch</td>
+<td align="center">yolov5</td>
+<td align="center">unknown</td>
+<td align="center"></td>
+<td align="center"><a href="https://drive.google.com/drive/folders/1hIPhIaQMRrRBok6uVANLFRtwIfLTxlVI?usp=sharing">Model</a>
+</tr>
 
 
 </tbody></table>
