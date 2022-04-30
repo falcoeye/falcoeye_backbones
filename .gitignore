@@ -128,8 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-portofolio/*
-!portofolio
-!portofolio/README.md
+.DS_Store
 
-
+ckpt*
+checkpoint
+1*
