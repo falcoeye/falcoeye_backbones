@@ -33,6 +33,16 @@ A set of models that were trained on the Bhader dataset (see datasets)
 </tr>
 
 
+<tr><td align="left">Arabian Angelfish Detector</td>
+<td align="center">detection</td>
+<td align="center">monitoring fish</td>
+<td align="center">tensorflow v2</td>
+<td align="center">FRCNN</td>
+<td align="center">640X640</td>
+<td align="center">1</td>
+<td align="center">FRCNN ResNet50 V2 640x640</td>
+<td align="center"><a href="https://drive.google.com/drive/folders/1zInU4TuSSWdqNQKd4wPaE1cK2BExyc3S?usp=sharing">Frozen Model</a>
+</tr>
 
 </tbody></table>
 
