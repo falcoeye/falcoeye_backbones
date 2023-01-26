@@ -36,21 +36,3 @@ A set of models that were trained on the Bhader dataset (see datasets)
 
 </tbody></table>
 
-
-## Vehicles Models:
-
-A set of models for vehicles detection
-
-<table><tbody>
-<!-- START TABLE -->
-<!-- TABLE HEADER -->
-<th valign="bottom">Name</th>
-<th valign="bottom">Task</th>
-<th valign="bottom">Good For</th>
-<th valign="bottom">Framework</th>
-<th valign="bottom">Base Architecture</th>
-<th valign="bottom">Image Size</th>
-<th valign="bottom">Extra</th>
-<th valign="bottom">Download</th>
-<!-- TABLE BODY -->
-</tbody></table>
