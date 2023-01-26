@@ -134,6 +134,7 @@ ckpt*
 checkpoint
 *.pth*
 *.h5*
+*.mar*
 *saved_model.pb
 variables*
 
