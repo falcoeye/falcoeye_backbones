@@ -1,9 +1,9 @@
 # Models
 
 
-## Detection Waste Models:
+## Crowd Counting Models:
 
-A set of models for detecting wastes including bottles, papers,..etc
+A set of models for counting crowd
 
 
 ### Model checkpoints 
@@ -21,15 +21,15 @@ A set of models for detecting wastes including bottles, papers,..etc
 <th valign="bottom">Download</th>
 
 <!-- TABLE BODY -->
-<tr><td align="left">Waste Detection</td>
-<td align="center">detection</td>
-<td align="center">Detecting 1 type of waste (paper)</td>
+<tr><td align="left">Crowd Counting</td>
+<td align="center">Counting</td>
+<td align="center">Count people in crowd</td>
 <td align="center">Torch</td>
-<td align="center">EfficientDets</td>
-<td align="center">768X768</td>
+<td align="center">P2PNet</td>
+<td align="center">128*Anysize//128</td>
 <td align="center">1</td>
-<td align="center"></td>
-<td align="center"><a href="https://drive.google.com/file/d/1PFehFMe4_K0iNMjp0NBx7I0-B5TKBrbK/view?usp=sharing">Download</a>
+<td align="center">VGG Backbone</td>
+<td align="center"><a href="https://drive.google.com/file/d/19WRUOpSXFygLcvorMHTqvLD9zUPzkEF1/view?usp=sharing">Download</a>
 </tr>
 
 
