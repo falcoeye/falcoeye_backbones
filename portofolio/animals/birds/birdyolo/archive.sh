@@ -1,0 +1,1 @@
+torch-model-archiver --model-name har --version 1.0 --model-file ./model.py --serialized-file ./bird_detection.pth --force --handler ./birdyolo_handler.py --extra-files "mish.py,yolo_layer.py,backbone.py,dataset_params.py"
