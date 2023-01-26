@@ -1,0 +1,1 @@
+torch-model-archiver --model-name reid --version 1.0 --model-file ./model.py --serialized-file ./wideresnet_mars.pth --force --handler ./reid_handler.py
