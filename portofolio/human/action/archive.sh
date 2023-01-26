@@ -1,0 +1,1 @@
+torch-model-archiver --model-name har --version 1.0 --model-file ./model.py --serialized-file ./har.pkl --force --handler ./har_handler.py --extra-files "pca.pkl"
