@@ -29,7 +29,7 @@ A set of models that were trained on the Bhader dataset (see datasets)
 <td align="center">1024X1024</td>
 <td align="center">1</td>
 <td align="center">FRCNN ResNet50 V2 1024x1024</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/1xmWliKGv1_h7FcAKgr-HMFzbx7-Q-5_9?usp=sharing">Frozen Model</a>
+<td align="center"><a href="https://drive.google.com/drive/folders/1o4r7i1Ly0sWV5oYEPL07ACaKs5BnB6I6?usp=sharing">Download</a>
 </tr>
 
 
