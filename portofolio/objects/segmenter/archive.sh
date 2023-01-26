@@ -1,0 +1,1 @@
+torch-model-archiver --model-name segmenter --version 1.0 --model-file ./model.py --serialized-file ./checkpoints/checkpoint.pth --force --handler ./segmenter_handler.py --extra-files "utils.py,decoder.py,blocks.py,checkpoints/variant.yml"
